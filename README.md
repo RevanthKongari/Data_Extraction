@@ -1,1 +1,1 @@
-By this project we can extract the data from given files in specified format such as Name,Contact Number,E-Mail etc just by uploading files to the django application.
+By this project we can extract the data from given files in specified format such as Name,Contact Number,E-Mail etc just by uploading files to the django application after processing the files the download link will be generated.
