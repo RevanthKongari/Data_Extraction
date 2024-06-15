@@ -1,4 +1,4 @@
-By this project we can extract the data from given files in specified format such as Name,Contact Number,E-Mail etc just by uploading files to the django application after processing the files the download link will be generated.Below I attached the images of this project in step by step manner.
+By this project we can extract the data from given files in specified format such as Name,Contact Number,E-Mail etc just by uploading files to the django application after processing the files the download link will be generated.In this djang project 'users' is the name of the app where as project name is 'cv_extractor_pro'. Below I attached the images of this project in step by step manner.
 
 
 
